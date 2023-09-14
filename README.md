@@ -9,7 +9,7 @@ CSS And JAVASCRIPT.
 - Similar UI to Netflix.
 - Responsive design with a good effect for a modern look.
 - Soft-looking keys for a user-friendly experience.
-- Netflix video ntro.
+- Netflix video intro.
 
 ## 🛠️ Usage
 
