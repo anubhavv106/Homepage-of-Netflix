@@ -16,7 +16,7 @@ CSS And JAVASCRIPT.
 1. Clone this repository: 
 ```bash 
 
-git clone https://github.com/anubhavv106/LGMVIP-Web-Task-03.github.io
+git clone https://github.com/anubhavv106/Homepage-of-Netflix
    ```
 2. Open the `index.html` file in your browser.
 
