@@ -6,7 +6,7 @@ CSS And JAVASCRIPT.
 
 ## 🚀 Features
 
-- Similar UI to Netflix.
+- Similar Homepage to Netflix.
 - Responsive design with a good effect for a modern look.
 - Soft-looking keys for a user-friendly experience.
 - Netflix video intro.
