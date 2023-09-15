@@ -26,6 +26,11 @@ git clone https://github.com/anubhavv106/Homepage-of-Netflix
 - CSS
 - JavaScript
 
+## 🎥 Demo Video
+
+https://github.com/anubhavv106/Homepage-of-Netflix/assets/112748712/848d6af4-dbbb-440a-aac1-d8a049637ca3
+
+
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
